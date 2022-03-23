@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rilwan123
+- 👋 Hi, I’m @rilwan 
 - 👀 I’m interested in webpage development
 - 🌱 I’m currently learning web development
 - �📫 you can contact me through linkedin :Rilwan S
